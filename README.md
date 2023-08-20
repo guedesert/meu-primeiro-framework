@@ -4,7 +4,7 @@
 
 ---
 
-[Projeto](#-projeto) • [Como baixar e executar](#-como-baixar-e-executar) • [Procedimentos](#-procedimentos) • [Tecnologias utilizadas](#-tecnologias-utilizadas) • [Autor](#-autor) • [Licença](#-licença)
+[Projeto](#-projeto) • [Como baixar e executar](#-como-baixar-e-executar) • [Aplicações](#-aplicações) • [Tecnologias utilizadas](#-tecnologias-utilizadas) • [Autor](#-autor) • [Licença](#-licença)
 
 ---
 
